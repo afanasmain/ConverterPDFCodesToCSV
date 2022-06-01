@@ -177,9 +177,6 @@ namespace ConverterPDFCodesToCSV
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label1;
-        private System.IO.FileSystemWatcher fileSystemWatcher1;
         private System.Windows.Forms.Button ButtonSetInputFile;
         private System.Windows.Forms.Label PDFLabel;
         private System.Windows.Forms.TextBox FileInputPDFTextbox;
