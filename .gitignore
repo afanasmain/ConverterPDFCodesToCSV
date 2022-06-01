@@ -33,6 +33,5 @@ __history/
 # Add build directories below 
 # (Exe not actually needed since it is covered by *.exe above)
 Debug/
-Release/
 packages/
 packages
