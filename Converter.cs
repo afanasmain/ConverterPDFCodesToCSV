@@ -55,7 +55,7 @@ namespace ConverterPDFCodesToCSV
         }
 
         static void SaveToCSV(string sFileName, string[] TextCodes)
-        {           
+        {            
             using (var stream = File.Open(sFileName, FileMode.Create))
             using (var writer = new StreamWriter(stream))
             {
