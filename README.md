@@ -6,3 +6,4 @@ It is understood that this is necessary for those cases when the equipment for p
 cannot work with PDF-files and it is necessary to transmit codes line by line for generating GS1 (Data Matrix)
 on the equipment side
  
+NOTE! At this moment installed GhostScript is required
